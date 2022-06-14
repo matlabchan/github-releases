@@ -1,4 +1,4 @@
 # github-releases
 
 ## Releases
-### Current Release: 1.0.0
+### Current Release: 2.0.0
